@@ -2,4 +2,4 @@
 This is my first git repository.
 <br>
 Author - Suraj Shinde<br>
-Student of GPA
+Student of GPA Amravati
